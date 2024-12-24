@@ -1,3 +1,4 @@
+package Beginner;
 import java.util.*;
 
 public class A_Boy_or_Girl {
